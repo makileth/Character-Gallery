@@ -84,4 +84,3 @@ Made by [makileth](https://github.com/makileth) because forgetting character det
 
 MIT - Do whatever you want with it. Just don't blame me if something breaks.
 
-```
