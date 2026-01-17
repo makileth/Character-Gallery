@@ -1,0 +1,18 @@
+{
+  "id": "character-gallery",
+  "title": "Character Gallery",
+  "description": "Instagram for your players' characters. Create, manage and share image galleries of your heroes.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "makileth",
+      "discord": "makileth"
+    }
+  ],
+  "scripts": ["scripts/module.js"],
+  "styles": ["styles.css"]
+}
